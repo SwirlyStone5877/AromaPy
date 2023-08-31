@@ -35,9 +35,9 @@ If you'd like to team up with me, I'm open to contributions, but I won't be acti
 
 ## Info
 It's a work in progress, so it isn't done yet. But you can see the updated progress here (if I remember).
-- [ ] Start coding
-- [ ] Fail and recode everything
-- [ ] Code main menu
+- [x] Start coding
+- [x] Fail and recode everything
+- [ ] Code main menu (in progress)
 - [ ] Brainstorm
 - [ ] More coding
 - [ ] More brainstorming
