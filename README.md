@@ -43,7 +43,6 @@ It's a work in progress, so it isn't done yet. But you can see the updated progr
 - [ ] More brainstorming
 - [ ] hell
 - [ ] Debugging
-- [ ] Figure out how to compile python code to exe file
 - [ ] Compile
 - [ ] Get some test users
 - [ ] Release
