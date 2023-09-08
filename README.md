@@ -7,7 +7,7 @@
 A simple UI for Aroma written in python because I suck at C.
 
 ## Installation
-1. This requires Aroma to be installed, of course. If you don't, you can find instructions [here](https://wiiu.hacks.guide) and the actual package [here](https://aroma.foryour.cafe).
+1. This requires Aroma to be installed, of course. If you don't have it, you can find instructions for basic setup [here](https://wiiu.hacks.guide) and the actual package for Aroma [here](https://aroma.foryour.cafe).
 2. Download either [the .py file](https://github.com/SwirlyStone5877/AromaPy#the-py-file) or [the .exe file](https://github.com/SwirlyStone5877/AromaPy#the-exe-file).
    ### The .py File
    a. Requires either Visual Studio Code (not recommended[^2]) or Python (the latest version)
@@ -28,7 +28,8 @@ A simple UI for Aroma written in python because I suck at C.
    
    b. Done.
 ## Usage
-This relies on a command prompt to work. It uses the keyboard, and not the mouse. It uses numbers. The options include [update this when done brainstorming].
+This relies on a command prompt to work. It uses the keyboard, and not the mouse. It uses numbers. The options include the following:
+1. [x] 
 
 ## Contributions
 If you'd like to team up with me, I'm open to contributions, but I won't be active at times. For a long time? For a short time? Who knows? It's random.
