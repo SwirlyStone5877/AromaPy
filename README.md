@@ -4,7 +4,7 @@
 
 [![Discord Server Badge](https://dcbadge.vercel.app/api/server/Xwaz6EA64t?style=flat&theme=default-inverted&compact=true)](https://discord.gg/Xwaz6EA64t)
 # AromaPy
-A simple UI for Aroma written in python because I suck at C.
+A simple assistant for Aroma written in python because I suck at C.
 
 ## Installation
 1. This requires Aroma to be installed, of course. If you don't have it, you can find instructions for basic setup [here](https://wiiu.hacks.guide) and the actual package for Aroma [here](https://aroma.foryour.cafe).
