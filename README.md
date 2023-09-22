@@ -29,7 +29,9 @@ A simple assistant for Aroma written in python because I suck at C.
    b. Done.
 ## Usage
 This relies on a command prompt to work. It uses the keyboard, and not the mouse. It uses numbers. The options include the following:
-1. [x] 
+1. Helps with plugins????
+2. Download homebrew using `fortheusers` API
+3. Get SDCafiine mods and move those to the SD card too
 
 ## Contributions
 If you'd like to team up with me, I'm open to contributions, but I won't be active at times. For a long time? For a short time? Who knows? It's random.
@@ -38,8 +40,8 @@ If you'd like to team up with me, I'm open to contributions, but I won't be acti
 It's a work in progress, so it isn't done yet. But you can see the updated progress here (if I remember).
 - [x] Start coding
 - [x] Fail and recode everything
-- [ ] Code main menu (in progress)
-- [ ] Brainstorm
+- [x] Code main menu
+- [ ] Brainstorm (im braindead)
 - [ ] More coding
 - [ ] More brainstorming
 - [ ] hell
